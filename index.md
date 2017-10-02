@@ -7,24 +7,30 @@ I am a Masters student of Computer Science with 2 years of experience and a dyna
  
 >I strongly believe that an individual with exceptional analytical abilities and can-do attitude can innovate, collaborate and excel anywhere.
 
+
 * * *
 
 # [](#header-1)Experience
+
 
 * * *
 
 # [](#header-1)Interests
 
+
 * * *
 
 # [](#header-1)Projects
+
 
 * * *
 
 # [](#header-1)Contact
 
 **Email**		: [khare.kashish@gmail.com](mailto:khare.kashish@gmail.com)
-**Phone**		: (201)464-3242
+
+**Phone**		: (201) 464-3242
+
 **Linkedin**	: [Kashish Khare](www.linkedin.com/in/kashishkhare) 
 	
 Text can be **bold**, _italic_, or ~~strikethrough~~.
