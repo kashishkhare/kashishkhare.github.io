@@ -12,6 +12,10 @@ I am a Masters student of Computer Science with 2 years of experience and a dyna
 
 # [](#header-1)Experience
 
+| Johnson & Johnson | Tata Consultancy Services | System Quest |
+|:------------------|:--------------------------|:-------------|
+|    Data Analyst   |     Software Engineer     |  Developer   |
+
 
 * * *
 
@@ -31,7 +35,7 @@ I am a Masters student of Computer Science with 2 years of experience and a dyna
 
 **Phone**		: (201) 464-3242
 
-**Linkedin**	: [Kashish Khare](www.linkedin.com/in/kashishkhare) 
+**Linkedin**	: [Kashish Khare](http://www.linkedin.com/in/kashishkhare) 
 	
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
