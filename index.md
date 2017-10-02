@@ -6,8 +6,7 @@ layout: default
 I am a Masters student of Computer Science with 2 years of experience and a dynamic background in data analysis and web development.
  
 >I strongly believe that an individual with exceptional analytical abilities and can-do attitude can innovate, collaborate and excel anywhere.
-
-
+ 
 * * *
 
 # [](#header-1)Experience
@@ -15,18 +14,15 @@ I am a Masters student of Computer Science with 2 years of experience and a dyna
 | Johnson & Johnson              | Tata Consultancy Services         | System Quest               |
 |:-------------------------------|:----------------------------------|:---------------------------|
 | Data Analyst (05/17 - Present) | Software Engineer (08/12 - 05/13) | Developer  (01/12 – 07/12) |
-
-
+  
 * * *
 
 # [](#header-1)Interests
-
-
+ 
 * * *
 
 # [](#header-1)Projects
-
-
+ 
 * * *
 
 # [](#header-1)Contact
@@ -36,6 +32,8 @@ I am a Masters student of Computer Science with 2 years of experience and a dyna
 **Phone**       : (201) 464-3242
 
 **Linkedin**    : [Kashish Khare](http://www.linkedin.com/in/kashishkhare) 
+	
+ 	
 	
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
