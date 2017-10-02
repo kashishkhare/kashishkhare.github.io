@@ -15,6 +15,7 @@ I am a Masters student of Computer Science with 2 years of experience and a dyna
 |:-------------------------------|:----------------------------------|:---------------------------|
 | Data Analyst (05/17 - Present) | Software Engineer (08/12 - 05/13) | Developer  (01/12 – 07/12) |
   
+   
 * * *
 
 # [](#header-1)Interests
