@@ -31,11 +31,11 @@ I am a Masters student of Computer Science with 2 years of experience and a dyna
 
 # [](#header-1)Contact
 
-**Email**		: [khare.kashish@gmail.com](mailto:khare.kashish@gmail.com)
+**Email**       : [khare.kashish@gmail.com](mailto:khare.kashish@gmail.com)
 
-**Phone**		: (201) 464-3242
+**Phone**       : (201) 464-3242
 
-**Linkedin**	: [Kashish Khare](http://www.linkedin.com/in/kashishkhare) 
+**Linkedin**    : [Kashish Khare](http://www.linkedin.com/in/kashishkhare) 
 	
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
