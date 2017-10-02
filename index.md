@@ -19,10 +19,8 @@ I am a Masters student of Computer Science with 2 years of experience and a dyna
 
 # [](#header-1)Interests
  
-**Machine Learning**   |   **Data Mining**   |   **Data Analytics**   |   **Web Development**         
-*
-*
-*
+**Machine Learning**   |   **Artificial Intelligence**   |   **Data Mining**   |   **Data Analytics**   |   **Web Development**         
+  
      
 * * *
 
