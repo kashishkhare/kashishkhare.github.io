@@ -25,7 +25,14 @@ Machine Learning   |   Artificial Intelligence   |   Data Mining   |   Data Anal
 
 # [](#header-1)Projects
 
-### [](#header-3)Event Recommendation
+#### [](#header-2)[Event Recommendation](https://github.com/kashishkhare/kashishkhare.github.io/tree/EventRecommendation) 
+
+#### [](#header-2)[Movie Recommendation] (https://github.com/kashishkhare/kashishkhare.github.io/tree/Movie-Recommendation)
+
+#### [](#header-2) [Twitter User Gender Recommendation] (https://github.com/kashishkhare/kashishkhare.github.io/tree/Twitter-User-Gender-Prediction)
+
+#### [](#header-2) [Enigma Machine] (https://github.com/kashishkhare/kashishkhare.github.io/tree/Enigma-Machi)
+
 [Event Recommendation](https://github.com/kashishkhare/kashishkhare.github.io/tree/EventRecommendation) 
  
 * * *
