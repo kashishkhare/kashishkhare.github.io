@@ -24,6 +24,8 @@ Machine Learning   |   Artificial Intelligence   |   Data Mining   |   Data Anal
 * * *
 
 # [](#header-1)Projects
+
+### [](#header-3)Event Recommendation
  
 * * *
 
