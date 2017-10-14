@@ -25,7 +25,7 @@ Machine Learning   |   Artificial Intelligence   |   Data Mining   |   Data Anal
 
 # [](#header-1)Projects
 
-1. #### [](#header-2)[Event Recommendation](https://kashishkhare.github.io/event) 
+1. #### [](#header-2)[Event Recommendation](https://kashishkhare.github.io/event-recommendation) 
 
 2. #### [](#header-2)[Movie Recommendation](https://kashishkhare.github.io/movie-recommendation)
 
