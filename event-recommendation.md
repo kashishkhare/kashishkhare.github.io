@@ -94,6 +94,30 @@ For predicting the interest of user in any event, I have considered below scenar
 * Day and time of the event?
 * Is event popular enough?
 
+To answer all these questions, we have to look into the dataset provided to us.
 
+**Is user invited to the event?**
+Answer to this question is already present in our training data file. So this can directly be taken from data set.
 
+**Is event created by friend of user?**
+For this question, first we have to find the creator of event from the events dataframe and then we have to check if user is friends with creator of event from the user_friend dataframe. We will add a new column to the train and test data set “isfriend” and value will be zero or one based on the answer of above question.
 
+Code for adding “isfriend” column:
+
+![](https://github.com/kashishkhare/kashishkhare.github.io/raw/master/Images/isfriend.png)
+
+**Has user shown any interest in the event? If yes, how?**
+For answer of this question we need to check the event_attendees data frame. From that dataframe we will take the user and check how the user reacted to the event. Whether he mentioned “yes”, “no” or “maybe”. A new column, “reaction”, is added to the train data set similar in the previous question. Values of train are 1 if “yes”, 0.5 if “maybe” and 0 if “no”.
+
+**Relation between location of event and user?**
+This question tells us about the distance of physical location of events and user, if known. Theoretically, we would take the location of user and event in form of latitude and longitude and find the distance between the two. If the distance is reasonable we can add a column saying user can reach the event or not. But due to too many missing values and misleading data in latitude and longitudes fields, I didn’t get any success in using this relation in my model.
+
+**Day and time of the event?**
+For this Question, we check the timestamp of the event from the events dataframe and if the event is on Friday, Saturday or Sunday we can give it higher number (5) and if is on weekday we can give it a lower number(2) to show that people are less likely to go to the event.
+
+**Is event popular enough?**
+This question deals with the popularity of event, if event is more popular more and more users will tend to go to the event. For this we count “yes” from the event attendees dataframe and if the number of people attending the event is greater than a fix value (50) we can mark it as popular otherwise unpopular.
+
+We will do the same process in test file and then we will put the values of our test file in the multiple regression model that we implemented.
+
+![](https://github.com/kashishkhare/kashishkhare.github.io/raw/master/Images/isfriend.png)
