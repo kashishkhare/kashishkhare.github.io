@@ -10,7 +10,7 @@ Event Recommendation system is a system to predict interest of a user in nearby 
 
 Data for this project is taken from kaggle.com. There are six files in all: train.csv, test.csv, users.csv, user_friends.csv, events.csv, and event_attendees.csv.
 
-### [](#header-4)Event.csv
+**Event.csv**
 This file contains all the information about every event present in the system. It has approx. 2 mil rows and 110 columns. Columns are as follows :
 
 * Event-id, unique id of event
@@ -20,7 +20,7 @@ This file contains all the information about every event present in the system. 
 * Lat and lng, are latitude and longitude of the location of event
 * Next 101 columns are for the 100 most common words throughout the application and count of each of 100 words in this event.
 
-### [](#header-4)Users.csv
+**Users.csv**
 This file contains all the information about all users in the system. It has about 30000 rows and 7 columns. Columns are as follows :
 
 * user_id, unique id of each user
@@ -31,10 +31,10 @@ This file contains all the information about all users in the system. It has abo
 * location, user’s location
 * timezone, user’s time-zone
 
-### [](#header-4)user_friends.csv
+**user_friends.csv**
 This file has just two columns user and friend. Friend is a list of friends of user which is space separated.
 
-### [](#header-4)event_attendees.csv 
+**event_attendees.csv**
 This file has information about which user attended which events. Columns are as follows :
 
 * event_id, identifies the event
@@ -43,7 +43,7 @@ This file has information about which user attended which events. Columns are as
 * invited, space separated list of user who indicated that they were invited
 * no, space separated list of user who indicated that they are not going to event
 
-### [](#header-4)train.csv 
+**train.csv** 
 This file is used for training the model. It has six columns :
 
 * user, id of user
@@ -53,12 +53,12 @@ This file is used for training the model. It has six columns :
 * interested, is a binary variable, if user is interested in event (1)
 * not_interested, is a binary variable, if user is not interested in event (1)
 
-### [](#header-4)test.csv 
+**test.csv** 
 This file is used to test the data. Same as train.csv but is used to predict interested or not.
 
 In this project, I have considered the target class as “interested” given a tuple of (event, user). Value of the interested, yes or no (1 or 0), is predicted based on relation between user and event using all the information provided in various files.
 
-### [](#header-3) Data Preprocessing
+### [](#header-5) Data Preprocessing
 
 In this dataset, a lot of preprocessing has been done.
 
