@@ -39,7 +39,7 @@ Data for this project is taken from kaggle.com. There are six files in all: trai
 * invited, space separated list of user who indicated that they were invited
 * no, space separated list of user who indicated that they are not going to event
 
-**### [](#header-4)train.csv** This file is used for training the model. It has six columns :
+### [](#header-4)train.csv This file is used for training the model. It has six columns :
 
 * user, id of user
 * event, id of event
@@ -48,7 +48,7 @@ Data for this project is taken from kaggle.com. There are six files in all: trai
 * interested, is a binary variable, if user is interested in event (1)
 * not_interested, is a binary variable, if user is not interested in event (1)
 
-### [](#header-4)**test.csv** This file is used to test the data. Same as train.csv but is used to predict interested or not.
+### [](#header-4)test.csv This file is used to test the data. Same as train.csv but is used to predict interested or not.
 
 In this project, I have considered the target class as “interested” given a tuple of (event, user). Value of the interested, yes or no (1 or 0), is predicted based on relation between user and event using all the information provided in various files.
 
@@ -59,5 +59,6 @@ In this dataset, a lot of preprocessing has been done.
 * I have loaded all the data into SQL database from the csv files, so that the data is easy and quick to access as compared to csv files. While loading data into the database file, I have encountered various problem with timestamp variable. The UTC version used in csv files of data were not compatible with the SQL versions. Hence SQL truncated the data based on the acceptable version.
 * There was a lot of missing data about the location of event as well as the user, which was replaced by 0s in latitude and longitudes. Missing data in events file can’t be just dropped because then the whole event will be erased from the system, which will affect all the files and it will create more irrelevant data in whole dataset.
 * All the space separated list of users in all files was converted into the list of users and was stored as the list for ease of access. As seen below in fig, in user_friends dataframe now friends is a list of userids not space separated one string
+
 
 ![](https://github.com/kashishkhare/kashishkhare.github.io/blob/master/Images/user_friend.png)
