@@ -81,3 +81,19 @@ users['longitude'] = [geolocator.geocode(str(s)).longitude if geolocator.geocode
 For implementation, first I analyzed the location of events. On plotting on map all the events I found out that most of the events are along the coast lines. Many events location were false values as they lie out in the ocean, middle of no where.
 Map was plotted using the Basemap module from the matplotlib toolkit.
 
+![](https://github.com/kashishkhare/kashishkhare.github.io/raw/master/Images/world_map_plot.png)
+
+On analyzing the location of events, it seems that location of events is covering only the coastal regions. According to the graph plotted above, there are no events that took place in inner region of any country.
+
+For predicting the interest of user in any event, I have considered below scenarios :
+
+* Is user invited to the event?
+* Is event created by friend of user?
+* Has user shown any interest in the event? If yes, how?
+* Relation between location of event and user?
+* Day and time of the event?
+* Is event popular enough?
+
+
+
+
