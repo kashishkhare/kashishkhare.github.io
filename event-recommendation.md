@@ -135,3 +135,5 @@ Intercept:
 
 When implemented multiple regression model, I learnt that I am getting a range of values instead of just 0 and 1. So I just took middle of the range and if less than that I predicted as “not interested” else “interested”. Some of the results are:
 
+![](https://raw.githubusercontent.com/kashishkhare/kashishkhare.github.io/master/Images/results.png)
+
