@@ -120,4 +120,18 @@ This question deals with the popularity of event, if event is more popular more 
 
 We will do the same process in test file and then we will put the values of our test file in the multiple regression model that we implemented.
 
-![](https://github.com/kashishkhare/kashishkhare.github.io/raw/master/Images/isfriend.png)
+![](https://github.com/kashishkhare/kashishkhare.github.io/raw/master/Images/liner_model.png)
+
+```
+Columns:
+Index(['user', 'event', 'invited', 'timestamp', 'interested','not_interested'
+‘isfriend’, ’reaction’, ’day’, ’popular’],
+dtype='object')
+Coefficients:
+[[ -8.75769458e-13 -9.47836566e-12 -7.94554891e-05 -6.12546889e-03 -4.95567321e-02 -9.54937621e-03 -5.45342166e-02]]
+Intercept:
+[ 0.29311704]
+```
+
+When implemented multiple regression model, I learnt that I am getting a range of values instead of just 0 and 1. So I just took middle of the range and if less than that I predicted as “not interested” else “interested”. Some of the results are:
+
