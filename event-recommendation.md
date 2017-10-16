@@ -10,7 +10,7 @@ Event Recommendation system is a system to predict interest of a user in nearby 
 
 Data for this project is taken from kaggle.com. There are six files in all: train.csv, test.csv, users.csv, user_friends.csv, events.csv, and event_attendees.csv.
 
-**Event.csv**
+**event.csv**
 This file contains all the information about every event present in the system. It has approx. 2 mil rows and 110 columns. Columns are as follows :
 
 * Event-id, unique id of event
@@ -20,7 +20,7 @@ This file contains all the information about every event present in the system. 
 * Lat and lng, are latitude and longitude of the location of event
 * Next 101 columns are for the 100 most common words throughout the application and count of each of 100 words in this event.
 
-**Users.csv**
+**users.csv**
 This file contains all the information about all users in the system. It has about 30000 rows and 7 columns. Columns are as follows :
 
 * user_id, unique id of each user
