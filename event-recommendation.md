@@ -75,3 +75,9 @@ In this dataset, a lot of preprocessing has been done.
 users['latitude'] = [geolocator.geocode(str(s)).latitude if geolocator.geocode(str(s)) is not None else 0.0 for s in users['location']]
 users['longitude'] = [geolocator.geocode(str(s)).longitude if geolocator.geocode(str(s)) is not None else 0.0 for s in users['location']]
 ```
+
+### [](#header-5) Implementation
+
+For implementation, first I analyzed the location of events. On plotting on map all the events I found out that most of the events are along the coast lines. Many events location were false values as they lie out in the ocean, middle of no where.
+Map was plotted using the Basemap module from the matplotlib toolkit.
+
