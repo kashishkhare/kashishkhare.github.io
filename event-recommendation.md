@@ -137,7 +137,7 @@ When implemented multiple regression model, I learnt that I am getting a range o
 
 ![](https://raw.githubusercontent.com/kashishkhare/kashishkhare.github.io/master/Images/results.png)
 
-### [](#header-5) Result
+### [](#header-5) Results
 In prediction of “interested” and “not interested”, I am getting about 70% users as interested for the given event in test file.
 
 These results can be compared by implementing the same dataset with different model like k-nearest neighbors or support vector machines.
