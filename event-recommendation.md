@@ -137,3 +137,31 @@ When implemented multiple regression model, I learnt that I am getting a range o
 
 ![](https://raw.githubusercontent.com/kashishkhare/kashishkhare.github.io/master/Images/results.png)
 
+### [](#header-5) Result
+In prediction of “interested” and “not interested”, I am getting about 70% users as interested for the given event in test file.
+
+These results can be compared by implementing the same dataset with different model like k-nearest neighbors or support vector machines.
+
+### [](#header-5) Future Improvements
+Some more points that can increase the accuracy of prediction can be:
+* Try to implement the data with other models and then take the majority vote and then decide the value for target class
+* Location of user and event can be considered and that will give more accurate results.
+* Similarity between users and event can be calculated using collaborative based filtering and that similarity score can be used to predict the interest of user.
+
+### [](#header-5) Conclusion
+While implementing the project, I learnt many new techniques to handle data in python. My biggest challenge was to manage this amount of data. To resolve this problem, I learnt how to integrate the database queries with python.
+
+Next challenge was to get the latitudes and longitudes for each location of the event and user. This task took about 2 weeks to complete but I was unable to use that in my model because of missing data. However, I learnt a lot about conversion of string and addresses to latitude and longitudes.
+
+In this project, I have learnt a lot about the pre-processing of data. Pre-processing of data has taken about 60% time of the whole project. Another 10% (approx) of time went in execution of code. As all the dataframes have large amounts of data so each block of code took a long time to execute.
+
+Overall in this project, I predicted the interest of user in any event based on multiple regression model and I think that it could be done better with other data mining models.
+
+### [](#header-5) References
+* Kaggle.com
+* https://pypi.python.org/pypi/geopy
+* https://matplotlib.org/basemap/
+* Programming Collective Intelligence, O’Reilly
+* Data Science From Scratch, Joel Grus
+* Fundamentals of Machine learning, John D. Kelleher, Brian Mac Namee, Aoife D’Arch
+
