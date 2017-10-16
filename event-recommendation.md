@@ -68,3 +68,10 @@ In this dataset, a lot of preprocessing has been done.
 
 
 ![](https://github.com/kashishkhare/kashishkhare.github.io/raw/master/Images/user_friend.png)
+
+* Location of users were of the form string they needed to be converted into latitudes and longitudes. If the location of user is unknown, it is stored as zero. They were converted using geopy geocoders module using the below code:
+
+```
+users['latitude'] = [geolocator.geocode(str(s)).latitude if geolocator.geocode(str(s)) is not None else 0.0 for s in users['location']]
+users['longitude'] = [geolocator.geocode(str(s)).longitude if geolocator.geocode(str(s)) is not None else 0.0 for s in users['location']]
+```
