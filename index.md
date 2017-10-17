@@ -4,6 +4,8 @@ layout: default
 # [](#header-1)About Me
 
 I am a Masters student of Computer Science with 2 years of experience and a dynamic background in data analysis and web development.
+
+I will be graduating from West Chester University of Pennsylvania in December 2017 with 3.97 GPA. I have also earned Masters in Computer Applications and Bachelors of Science (Computer Science Honors) from Bansthali University with GPA 3.6 and 3.8 respectively.
  
 * * *
 
