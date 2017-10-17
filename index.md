@@ -5,8 +5,6 @@ layout: default
 
 I am a Masters student of Computer Science with 2 years of experience and a dynamic background in data analysis and web development.
  
->I strongly believe that an individual with exceptional analytical abilities and can-do attitude can innovate, collaborate and excel anywhere.
- 
 * * *
 
 # [](#header-1)Experience
