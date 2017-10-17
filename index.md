@@ -15,7 +15,8 @@ I will be graduating from West Chester University of Pennsylvania in December 20
 |:-------------------------------|:----------------------------------|:---------------------------|
 | Data Analyst (05/17 - Present) | Software Engineer (08/12 - 05/13) | Developer  (01/12 – 07/12) |
   
-   
+
+			
 * * *
 
 # [](#header-1)Interests

@@ -170,3 +170,4 @@ Overall in this project, I predicted the interest of user in any event based on 
 * Data Science From Scratch, Joel Grus
 * Fundamentals of Machine learning, John D. Kelleher, Brian Mac Namee, Aoife D’Arch
 
+[<- Return To Home...](./)
