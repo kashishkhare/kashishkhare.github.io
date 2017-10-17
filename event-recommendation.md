@@ -2,10 +2,11 @@
 
 # Event Recommendation Using Data Mining
 
+* * *
 ### [](#header-3)Code Files
 
 [https://github.com/kashishkhare/Event-Recommendation](https://github.com/kashishkhare/Event-Recommendation)
-
+* * *
 ### [](#header-3)Introduction
 
 Event Recommendation system is a system to predict interest of a user in nearby events. There are a lot of events happening all over the world in various fields. Some users might be interested in events based on their preferences or as suggested by their friends. In this project, I have to predict what events users will be interested, based on events they’ve responded to in the past, user demographic information, and what events they have seen and clicked on. This project is based on a competition posted on kaggle.com.
