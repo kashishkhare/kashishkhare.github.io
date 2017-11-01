@@ -5,3 +5,5 @@ email: khare.kashish@gmail.com
 phone: (201) 464-3242
 linkedin: www.linkedin.com/in/kashishkhare
 google_analytics: UA-109077246-1
+plugins:
+  - jekyll-seo-tag
