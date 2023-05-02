@@ -42,7 +42,5 @@ Machine Learning   |   Artificial Intelligence   |   Data Mining   |   Data Anal
 
 **Email**       : [khare.kashish@gmail.com](mailto:khare.kashish@gmail.com)
 
-**Phone**       : (201) 464-3242
-
 **Linkedin**    : [Kashish Khare](http://www.linkedin.com/in/kashishkhare) 
 	
